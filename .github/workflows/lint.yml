@@ -39,4 +39,5 @@ jobs:
         with:
           eslint: true,
           eslint_dir: src/,
-          eslint_extensions: tsx
+          eslint_extensions: tsx,
+          auto_fix: true
